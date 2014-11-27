@@ -11,6 +11,9 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 
 		// MASTER
+		
+		
+		//TEstionf form the second test workspacw
 	}
 
 }
